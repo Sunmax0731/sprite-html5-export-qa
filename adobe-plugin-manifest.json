@@ -1,0 +1,7 @@
+{
+  "id": "com.sunmax0731.sprite-html5-export-qa",
+  "name": "スプライト・HTML5書き出し検品",
+  "version": "0.1.0-alpha.1",
+  "targetHost": "Animate",
+  "closedAlpha": true
+}
