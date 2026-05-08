@@ -1,0 +1,11 @@
+{
+  "product": "sprite-html5-export-qa",
+  "title": "スプライト・HTML5書き出し検品",
+  "domain": "AdobePlugin",
+  "ideaNo": 10,
+  "platformType": "adobe-host-plugin",
+  "expectedPublicTarget": "BOOTH / GitHub Release",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}

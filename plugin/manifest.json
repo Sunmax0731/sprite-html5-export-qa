@@ -1,0 +1,18 @@
+{
+  "id": "com.sunmax0731.sprite-html5-export-qa",
+  "name": "スプライト・HTML5書き出し検品",
+  "version": "0.1.0-alpha.1",
+  "manifestVersion": 5,
+  "host": {
+    "app": "Animate",
+    "minVersion": "1.0.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "closed-alpha-panel",
+      "label": "スプライト・HTML5書き出し検品",
+      "mainPath": "panel.html"
+    }
+  ]
+}
